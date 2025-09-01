@@ -95,7 +95,7 @@ data/
 If you use EvoZymePro-Cat in your research, please cite:
 
 ```bibtex
-@article{xu2024evozymepro,
+@article{xu2025evozymepro,
   title={EvoZymePro-Cat: Protein-Ligand-Aware Deep Learning for Precision Enzyme Engineering},
   author={Xu, Ran and Li, Xinkang and Sui, Jianan and Zheng, Liangzhen and Guo, Jingjing},
   journal={Journal Name},
@@ -103,18 +103,4 @@ If you use EvoZymePro-Cat in your research, please cite:
 }
 ```
 
-## Contact
 
-- **Corresponding Authors**: 
-  - Liangzhen Zheng: zhenglz@zelixir.com
-  - Jingjing Guo: jguo@mpu.edu.mo
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-This research is supported by:
-- Science and Technology Development Fund of Macau (0004/2025/RIA1)
-- Macao Polytechnic University (RP/CAI-01/2023)
